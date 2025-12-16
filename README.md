@@ -19,7 +19,7 @@ This project predicts students’ final grades using multiple regression based o
 
 ## 📂 Dataset
 Student performance dataset (e.g., UCI / Kaggle student grades with hours studied, demographics, and more) 
-shaurya-sethi.github.io
+
 
 ## 🎯 Learning Outcome
 This project helped me understand real-world regression workflows including data loading, cleaning, feature analysis, visualization, and drawing insights on what factors most affect student performance.
